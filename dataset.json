@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in St. George, Utah. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in St. George, Utah, US",
+  "export_job_id": "7f7987f7-e4d8-4ece-b795-58f2df438ed2",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 484354,
+  "location_name": "St. George",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-st-george-utah-us-sample-484354",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/484354/beamstation_484354_restaurants-us-ut_SAMPLE_DIST.csv",
+  "sample_pct": 9.97,
+  "sample_records": 32,
+  "sample_sha256": "c530b90360d759bbbce94e3a2ddc963e7dc39fb751eaa3ba7a32749bfb95d62d",
+  "sample_size_bytes": 127640,
+  "total_records": 321,
+  "updated_at": "2026-04-09T14:29:56.860866+00:00"
+}
