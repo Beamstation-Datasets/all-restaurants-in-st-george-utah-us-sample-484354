@@ -1,12 +1,12 @@
 {
-  "export_job_id": "219917c6-dfb1-4bfb-b549-9f42142f7d93",
+  "export_job_id": "a44cf632-f612-45dd-9dc4-9b63dacd3aba",
   "id_short": 484354,
-  "published_at": "2026-04-19T19:14:15Z",
+  "published_at": "2026-04-23T19:21:25Z",
   "repo_name": "all-restaurants-in-st-george-utah-us-sample-484354",
   "sample_asset_name": "beamstation_484354_restaurants-us-ut_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/484354/beamstation_484354_restaurants-us-ut_SAMPLE_DIST.csv",
-  "sample_records": 31,
-  "sample_sha256": "7dffe010a210d2cec7e2de5c839d2ccb09edb9a0337140c19feafb626580edb5",
-  "sample_size_bytes": 122480,
-  "total_records": 311
+  "sample_records": 12,
+  "sample_sha256": "855283308872b2f59093c8c258613a3338ebcb6fe00acd028d7a412294b4e937",
+  "sample_size_bytes": 61774,
+  "total_records": 126
 }
